@@ -1,0 +1,11 @@
+{
+  "name": "javaBasics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Chubbard022/javaBasics.git",
+  "author": "Chubbard022 <chubbard022@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
