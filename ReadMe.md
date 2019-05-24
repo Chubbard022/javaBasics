@@ -1,3 +1,5 @@
 To compile code --> javac [filename]
 
-Datatypes within Java --> string,
+Data types within Java --> string,
+
+format specifier- %s
