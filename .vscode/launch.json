@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - newDataTypesjava",
+            "request": "launch",
+            "mainClass": "newDataTypesjava"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Introductions",
             "request": "launch",
             "mainClass": "Introductions"
